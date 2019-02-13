@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-12T07:17:35Z" name="FREE CRM Application Automation Regression Test Suite" finished-at="2019-02-12T07:18:20Z" duration-ms="44814">
+    <groups>
+    </groups>
+    <test started-at="2019-02-12T07:17:35Z" name="Free CRM App Test Cases" finished-at="2019-02-12T07:18:20Z" duration-ms="44814">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:17:35Z" name="setup" finished-at="2019-02-12T07:17:57Z" duration-ms="22218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageLogoTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:17:57Z" name="verifyHomePageLogoTest" finished-at="2019-02-12T07:17:57Z" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageLogoTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:17:57Z" name="teardown" finished-at="2019-02-12T07:17:58Z" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:17:58Z" name="setup" finished-at="2019-02-12T07:18:20Z" duration-ms="22198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageHelpLinkExistTest()[pri:2, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:18:20Z" name="verifyHomePageHelpLinkExistTest" finished-at="2019-02-12T07:18:20Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHelpLinkExistTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@424e1977]" started-at="2019-02-12T07:18:20Z" name="teardown" finished-at="2019-02-12T07:18:20Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Automation Regression Test Suite -->
+</testng-results>
