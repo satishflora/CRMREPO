@@ -32,7 +32,7 @@ public class HomePageTest extends TestBase {
 	{
 		TestUtil.switchToFrame();
 		String logoText = homePage.verifyHomePageLogo();
-		Assert.assertEquals(logoText, "CRMPRO");
+		Assert.assertEquals(logoText, "CRMPRO1");
 		
 	}
 	@Test(priority=2)
